@@ -1,0 +1,7 @@
+title:
+  ru: Door Studs
+  en_us: Door Studs
+tooltip:
+  ru: Sets Stud Clearance zones to the Height of the host wall for all Doors on a phase
+  en_us: Sets Stud Clearance zones to the Height of the host wall for all Doors on a phase
+context: zero-doc

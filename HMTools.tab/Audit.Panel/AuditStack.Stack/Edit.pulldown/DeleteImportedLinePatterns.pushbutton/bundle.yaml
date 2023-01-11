@@ -1,0 +1,7 @@
+title:
+  ru: Delete LinePatterns
+  en_us: Delete LinePatterns
+tooltip:
+  ru: 
+  en_us: Deletes Imported LinePatterns not begining with HML or Default to Revit
+context: zero-doc

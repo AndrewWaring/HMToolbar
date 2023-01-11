@@ -1,0 +1,7 @@
+title:
+  ru: Scalebars
+  en_us: Scalebars
+tooltip:
+  ru: Updates the Scalebar parameter on the sheets to either the scale of the drawings or as indicated if multiple scales or nothing if no scales.
+  en_us: Updates the Scalebar parameter on the sheets to either the scale of the drawings or as indicated if multiple scales or nothing if no scales. 
+context: zero-doc

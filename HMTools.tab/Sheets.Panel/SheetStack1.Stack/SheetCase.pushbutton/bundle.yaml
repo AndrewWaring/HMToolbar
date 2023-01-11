@@ -1,0 +1,7 @@
+title:
+  ru: Sheet Case
+  en_us: Sheet Case
+tooltip:
+  ru: Updates Sheet Title Case to Either TitleCase or UPPERCASE 
+  en_us: Updates Sheet Title Case to Either TitleCase or UPPERCASE 
+context: zero-doc

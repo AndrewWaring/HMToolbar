@@ -1,0 +1,7 @@
+title:
+  ru: Dashboard
+  en_us: Dashboard
+tooltip:
+  ru: 
+  en_us: opens Dashboard. Does not update data. Run HM-Audit to export data
+context: zero-doc

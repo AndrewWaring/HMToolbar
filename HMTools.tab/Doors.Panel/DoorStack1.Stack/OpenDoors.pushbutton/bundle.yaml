@@ -1,0 +1,7 @@
+title:
+  ru: Open Doors
+  en_us: Open Doors
+tooltip:
+  ru: Opens all doors in a phase in 3D. Might be slow on large jobs!
+  en_us: Opens all doors in a phase in 3D. Might be slow on large jobs!
+context: zero-doc

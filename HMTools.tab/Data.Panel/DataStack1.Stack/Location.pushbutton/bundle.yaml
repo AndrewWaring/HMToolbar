@@ -1,0 +1,7 @@
+title:
+  ru: Splash Coord
+  en_us: Splash Coord
+tooltip:
+  ru: Writes coordinates to Splashscreen
+  en_us: Writes coordinates to Splashscreen
+context: zero-doc
